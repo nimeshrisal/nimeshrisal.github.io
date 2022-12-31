@@ -718,8 +718,8 @@ header{
 	}
 	.author-img{
 		@include media-breakpoint-down(sm){
-			display: grid;
-			height: 50px;
+			display: block;
+			height: 300px;
 		}
 	}
 }
