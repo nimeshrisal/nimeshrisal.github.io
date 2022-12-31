@@ -8211,9 +8211,10 @@ textarea.form-control {
 .author-img,
 .logo-img,
 .user-img {
-  background-size: cover;
+  height: auto;
+  background-size: 300px;
   background-repeat: no-repeat;
-  background-position: center center; }
+  background-position: center ; }
 
 .image-popup {
   cursor: -webkit-zoom-in;
